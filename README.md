@@ -32,7 +32,7 @@ This is my **first web scraping project**, where I collected **live gold and sil
 
 ## 📸 Dashboard Preview  
 *(Insert dashboard screenshot here)*  
-![Dashboard Screenshot](path/to/dashboard.png)  
+![Gold_dashboard]([path/to/dashboard.png](https://github.com/ahmedsmra/Gold-and-Silver-Web-Scraping-Project/blob/main/Gold_Dashboard.png))  
 
 ---
 
