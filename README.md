@@ -35,7 +35,7 @@ This is my **first web scraping project**, where I collected **live gold and sil
 Here’s the interactive Power BI dashboard I created:  
 
 ![Dashboard Screenshot](Gold_Dashboard.png)
-
+![Dashboard Screenshot](Silver_Dashboard.png)
 
 ---
 
